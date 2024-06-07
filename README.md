@@ -11,7 +11,7 @@ Esta etapa representa mais um desafio na trilha de Front-End do Programa ONE, um
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
-### URL🚀:
+### URL🚀: https://portifolio-erika-two.vercel.app/
 
 ### Como rodar o projeto:
 
