@@ -17,7 +17,7 @@ Esta etapa representa mais um desafio na trilha de Front-End do Programa ONE, um
 
 **Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo**
 
-1. `git clone https://github.com/erikasisan` para clonar o projeto
+1. `https://github.com/ErikaSisan/Portifolio_Erika.git` para clonar o projeto
 
 2. Acessar [http://localhost:3000](http://localhost:3000) no navegador
 
