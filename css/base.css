@@ -1,0 +1,52 @@
+/* Variáveis de Cores */
+:root {
+    --cor-de-fundo: #F9F6FF; 
+    --cor-de-link: #6A1B9A; 
+    --cor-da-caixa: #FFFFFF; 
+    --cor-da-fonte: #333333; 
+    --cor-de-fundo-azul: #F3E5F5; 
+    --cor-primaria: #8E24AA; 
+    --cor-secundaria: #FF4081; 
+    --cor-aviso: #D32F2F; 
+    --cor-placeholder: #9E9E9E; 
+    --form-borda: #E1BEE7; 
+    --tipo-da-fonte: 'Raleway', sans-serif;
+    --cor-botao: #6A1B9A; 
+}
+
+/* Estilos Globais */
+body {
+    box-sizing: border-box;
+    background-color: var(--cor-de-fundo);
+    font-family: var(--tipo-da-fonte);
+    margin: 0;
+    padding: 0;
+    line-height: 1.5; /* Ajuste de line-height para melhor legibilidade */
+}
+
+/* Listas */
+ol, ul, li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: var(--cor-de-link);
+}
+
+/* Inputs e Textareas */
+input, textarea {
+    border: 1px solid var(--form-borda);
+    font-family: var(--tipo-da-fonte);
+    color: var(--cor-da-fonte);
+}
+
+input::placeholder, textarea::placeholder {
+    color: var(--cor-placeholder);
+}
+
+
+
